@@ -8,7 +8,6 @@ int main()
     std::cout << "Hello World!\n";
     std::cout << "Hello World!\n";
     std::cout << "Hello World!\n";
-    //add a comment to explain stuff
     std::cout << "Hello World!\n";
     std::cout << "Hello World!\n";
     std::cout << "Hello World!\n";
@@ -16,6 +15,8 @@ int main()
     std::cout << "Hello World!\n";
     std::cout << "Hello World!\n";
     std::cout << "Submission by Jackson Turner (the cool one) - COMP-3010\n";
+    //add a comment to explain stuff
+    //Yeahh, I don't think I will
 }
 
 void fun()
