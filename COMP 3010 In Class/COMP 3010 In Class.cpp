@@ -14,8 +14,10 @@ int main()
     std::cout << "Hello World!\n";
     std::cout << "Hello World!\n";
     std::cout << "Hello World!\n";
+    std::cout << "Submission by Aitor Scholl - COMP-3010" << std::endl;
     //add a comment to explain stuff
 }
+
 
 void fun()
 {
